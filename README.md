@@ -5,7 +5,7 @@
 
 ## 💼 What I'm working on:
 - Investing time in CompTIA A+
-- Gaining practical experience and making networking labs (Cisco Pcket Tracer)
+- Gaining practical experience and making networking labs (VMware)
 - Building my remote-ready IT profile
 
 ## 📚 Skills:
@@ -16,14 +16,11 @@
 - Problem-solving through logic and hands-on testing
 
 ## 🛠 Tools & Tech:
-- Wireshark(Beginner) • Cisco Packet Tracer • Windows/Linux CLI • GitHub • kali Linux
+- Wireshark(Beginner) • Cisco Packet Tracer • Windows/Linux CLI • GitHub • kali Linux 
 
 ## 🚀 Short-term Goals:
-- Land a job as a Network Technician/Network Administrator
+- Land a job as a Network Technician/Network Administrator/Help Desk
 - Build a strong project portfolio on GitHub
-
-## 🚀 Long-term Goals:
-- Open my own cyber security firm
 
 📫 Contact: alihassanpro50@gmail.com
 🌐 LinkedIn: www.linkedin.com/in/ali-hassan-cyber
