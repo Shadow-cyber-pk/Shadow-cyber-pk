@@ -1,26 +1,22 @@
-# 👋 Hi, I'm Shadow-cyber-pk!
+# Hi, I'm Shadow-cyber-pk! 👋
+Aspiring Cloud Security expet based in Pakistan. I specialize in building and securing enterprise-grade virtualized infrastructures.
 
-🎯 Aspiring Cybersecurity Analyst | Networking Enthusiast | Former Electrical Assistant  
-📍 Based in Pakistan | 💬 I also tutor English (IELTS) and love helping others learn.
+## What I'm working on:
 
-## 💼 What I'm working on:
-- Investing time in CompTIA A+
-- Gaining practical experience and making networking labs (VMware)
-- Building my remote-ready IT profile
+**Enterprise Labbing:** Building hardened Active Directory environments using Windows Server 2022 Core.
 
-## 📚 Skills:
-- Electrical systems (wiring, troubleshooting, board setup)
-- Networking (IP addressing, Packet Tracer, switches)
-- obtained Network+
-- Teaching (English + IELTS prep)
-- Problem-solving through logic and hands-on testing
+**Network Security:** Implementing pfSense firewalls, OpenVPN, and Secure Web Gateways.
 
-## 🛠 Tools & Tech:
-- Wireshark(Beginner) • Cisco Packet Tracer • Windows/Linux CLI • GitHub • kali Linux 
+**Certification:** **Network+ certified** and studying for **AZ-900.**
 
-## 🚀 Short-term Goals:
-- Land a job as a Network Technician/Network Administrator/Help Desk
-- Build a strong project portfolio on GitHub
+## Technical Stack:
 
-📫 Contact: alihassanpro50@gmail.com
-🌐 LinkedIn: www.linkedin.com/in/ali-hassan-cyber
+**Networking:** pfSense, Cisco Packet Tracer, VPN (OpenVPN/IPsec), NAT/Routing.
+
+Systems: Windows Server (2016-2022), Linux (Kali, Ubuntu), PowerShell.
+
+Tools: VMware Workstation, Wireshark, Nginx, Tailscale.
+
+## Let's Connect:
+
+www.linkedin.com/in/ali-hassan-cyber | alihassanpro50@gmail.com
