@@ -13,7 +13,7 @@ Aspiring Cloud Security expet based in Pakistan. I specialize in building and se
 
 **Networking:** pfSense, Cisco Packet Tracer, VPN (OpenVPN/IPsec), NAT/Routing.
 
-Systems: Windows Server (2016-2022), Linux (Kali, Ubuntu), PowerShell.
+Systems: Azure Portal, Windows 10 pro, Windows Server (2016-2022), Linux (Kali, Ubuntu), PowerShell.
 
 Tools: VMware Workstation, Wireshark, Nginx, Tailscale.
 
