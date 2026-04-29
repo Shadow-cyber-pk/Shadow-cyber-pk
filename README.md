@@ -1,5 +1,5 @@
 # Hi, I'm Shadow-cyber-pk! 👋
-Aspiring Cloud Security expet based in Pakistan. I specialize in building and securing enterprise-grade virtualized infrastructures.
+Network & Systems Support Specialist | CompTIA Network+ Certified. I build and secure enterprise-grade virtualized infrastructures with a focus on Windows Server, pfSense, and Azure.
 
 ## What I'm working on:
 
