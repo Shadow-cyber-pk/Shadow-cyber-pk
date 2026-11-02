@@ -13,9 +13,9 @@ Network & Systems Support Specialist | CompTIA Network+ Certified. I build and s
 
 **Networking:** pfSense, Cisco Packet Tracer, VPN (OpenVPN/IPsec), NAT/Routing.
 
-Systems: Azure Portal, Windows 10 pro, Windows Server (2016-2022), Linux (Kali, Ubuntu), PowerShell.
+**Systems:** Azure Portal, Windows 10 Pro, Windows Server (2016-2022), Linux (Kali, Ubuntu), PowerShell.
 
-Tools: VMware Workstation, Wireshark, Nginx, Tailscale.
+**Tools:** VMware Workstation, Wireshark, Nginx, Tailscale.
 
 ## Let's Connect:
 
