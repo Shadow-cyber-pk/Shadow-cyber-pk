@@ -19,4 +19,4 @@ Tools: VMware Workstation, Wireshark, Nginx, Tailscale.
 
 ## Let's Connect:
 
-www.linkedin.com/in/ali-hassan-cyber | alihassanpro50@gmail.com
+http://www.linkedin.com/in/aliiinit | alihassanpro50@gmail.com
